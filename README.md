@@ -26,5 +26,6 @@ This dataset was used to explore how different lifestyle and well-being factors 
 - **Python** - Data cleaning and exploratory data analysis
 - **Pandas** - Data manipulation and analysis
 - **Matplotlib** - Data visualization
+- **Seaborn** - Statistical data visualization
 - **Power BI** - Interactive dashboard creation
 - **Jupyter Notebook** - Python analysis environment

@@ -66,3 +66,6 @@ An interactive Power BI dashboard was created to visualize key health and lifest
 This project explored relationships between lifestyle habits, mental well-being, fitness, and overall health. The analysis highlighted notable patterns involving anxiety, stress, fitness, exercise, and health scores.
 
 The project demonstrates the use of Python for exploratory data analysis and Power BI for presenting findings through an interactive dashboard.
+
+
+### ❤️

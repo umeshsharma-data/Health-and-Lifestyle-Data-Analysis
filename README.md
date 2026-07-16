@@ -53,3 +53,10 @@ The dataset was explored and analyzed using Python to understand its structure, 
 An interactive Power BI dashboard was created to visualize key health and lifestyle patterns identified during the analysis.
 
 ![Health and Lifestyle Dashboard](Health_dashboard.png)
+
+## 🔑 Key Findings
+
+- Higher anxiety levels were associated with higher stress levels.
+- Health scores showed a decreasing trend as anxiety levels increased.
+- Individuals with excellent fitness levels had the highest average health scores.
+- Exercise frequency tended to be higher among individuals with better fitness levels.

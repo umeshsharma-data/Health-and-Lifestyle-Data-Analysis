@@ -47,3 +47,9 @@ The dataset was explored and analyzed using Python to understand its structure, 
 - Explored exercise frequency across fitness levels
 - Examined relationships between anxiety, stress, and health scores
 - Used correlation analysis to identify relationships between numerical variables
+
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize key health and lifestyle patterns identified during the analysis.
+
+![Health and Lifestyle Dashboard](health_dashboard.png)

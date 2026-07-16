@@ -29,3 +29,21 @@ This dataset was used to explore how different lifestyle and well-being factors 
 - **Seaborn** - Statistical data visualization
 - **Power BI** - Interactive dashboard creation
 - **Jupyter Notebook** - Python analysis environment
+
+## 🔍 Data Cleaning & Exploratory Data Analysis
+
+The dataset was explored and analyzed using Python to understand its structure, quality, and relationships between different health and lifestyle variables.
+
+### Data Cleaning
+- Checked the dataset structure, data types, and dimensions
+- Identified missing values and duplicate records
+- Reviewed numerical and categorical features
+- Prepared the data for further analysis and visualization
+
+### Exploratory Data Analysis
+- Analyzed distributions of key variables such as age, BMI, and sleep duration
+- Compared sleep quality between early and non-early wakers
+- Analyzed health scores across different fitness levels
+- Explored exercise frequency across fitness levels
+- Examined relationships between anxiety, stress, and health scores
+- Used correlation analysis to identify relationships between numerical variables

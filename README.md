@@ -52,4 +52,4 @@ The dataset was explored and analyzed using Python to understand its structure, 
 
 An interactive Power BI dashboard was created to visualize key health and lifestyle patterns identified during the analysis.
 
-![Health and Lifestyle Dashboard](Halth_dashboard.png)
+![Health and Lifestyle Dashboard](Health_dashboard.png)

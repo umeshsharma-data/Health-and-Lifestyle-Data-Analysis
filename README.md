@@ -60,3 +60,9 @@ An interactive Power BI dashboard was created to visualize key health and lifest
 - Health scores showed a decreasing trend as anxiety levels increased.
 - Individuals with excellent fitness levels had the highest average health scores.
 - Exercise frequency tended to be higher among individuals with better fitness levels.
+
+## 📝 Conclusion
+
+This project explored relationships between lifestyle habits, mental well-being, fitness, and overall health. The analysis highlighted notable patterns involving anxiety, stress, fitness, exercise, and health scores.
+
+The project demonstrates the use of Python for exploratory data analysis and Power BI for presenting findings through an interactive dashboard.
